@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MoritzTheis
 - 👀 I’m interested in AI / Data Science
 - 🌱 I’m currently learning ways of analysing and visualisizing data
-- 💞️ I’m looking to collaborate on ---
 - 📫 How to reach me "mor.theis.21@heilbronn.dhbw.de" 
 
 <!---
